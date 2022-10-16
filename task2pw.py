@@ -1,5 +1,3 @@
-from lzma import LZMACompressor
-from turtle import up
 import bcrypt
 from nltk.corpus import words
 import base64
